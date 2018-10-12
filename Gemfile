@@ -14,7 +14,6 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 gem 'redis', '~> 4.0'
-gem 'devise'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
